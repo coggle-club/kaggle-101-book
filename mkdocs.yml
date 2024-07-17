@@ -1,6 +1,11 @@
 site_name: Kaggle竞赛入门讲义
 nav: 
   - 主页: index.md
-  - 关于我们: about.md
+  - 关注: about.md
+  - Kaggle使用手册
+    - 'Kaggle 基础介绍': kaggle_basic.md
+    - 'Kaggle Notebook': kaggle_notebok.md
+    - 'Kaggle Dataset': kaggle_dataset.md
+  - 数据挖掘库
 theme:
   name: material
