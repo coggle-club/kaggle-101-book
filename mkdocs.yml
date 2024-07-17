@@ -1,0 +1,6 @@
+site_name: Kaggle竞赛入门讲义
+nav: 
+  - 主页: index.md
+  - 关于我们: about.md
+theme:
+  name: material
